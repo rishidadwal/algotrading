@@ -1,0 +1,8 @@
+{
+"user_id"    : "****",
+"password"    :"****",
+"totp" : "***",
+"vendor_code"      : "***",
+"api_key" : "***",
+"imei"   : "abc1234"
+}
